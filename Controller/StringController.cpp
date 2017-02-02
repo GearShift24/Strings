@@ -13,10 +13,9 @@ using namespace std;
 
 void StringController :: start()
 {
-        char emptyCheck[100] = "broooooooooooooooooooooooooo";
-    bool empty() bob;
+ 
     
-
+        
     
     
     
@@ -44,4 +43,11 @@ void StringController:: atInt()
 {
     char broString[100] = "broooooooooooooooooooooooooo";
 at:broString[7] = {'f'};
+}
+
+void StringController:: isEmpty()
+{
+    howLong = "hi";
+    howLong.empty();
+    cout << howLong << endl;
 }

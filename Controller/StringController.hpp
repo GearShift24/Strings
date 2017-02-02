@@ -10,18 +10,22 @@
 #define StringController_hpp
 #include <String>
 
+using namespace std;
+
 class StringController
 {
 private:
     int number = 5;
     int bro = 0;
     char plez[20] = "hi";
+    string howLong;
     
     //methods
  
     void HowLong();
     void StringMaker();
     void atInt();
+    void isEmpty();
     
     
     
