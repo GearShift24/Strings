@@ -26,7 +26,9 @@ private:
     void StringMaker();
     void atInt();
     void isEmpty();
-    
+    void substringStartEnd();
+    void substringStart();
+    void comparingStuff();
     
     
 public:
