@@ -20,6 +20,22 @@ void StringController :: start()
     this->substringStartEnd();
     this->substringStart();
     this->comparingStuff();
+    
+    
+    //
+    //
+    //array assignment upload
+    
+    
+    
+    int derp [8];
+    double derpio [29];
+    
+    
+    
+    
+    
+    
 }
 
 
@@ -81,4 +97,13 @@ void StringController:: comparingStuff()
     }
     else{cout << "I checked howLong string and anotherStrinf and they are not same" << endl;
     }
+    
+    
+    
+    
+    
+    
+
+    
+    
 }
