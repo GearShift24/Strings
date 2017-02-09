@@ -30,10 +30,7 @@ void StringController :: start()
     
     int derp [8];
     double derpio [29];
-    
-    
-    
-    
+        
     
     
 }
